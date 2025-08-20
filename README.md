@@ -5,7 +5,7 @@
 
 | PLD | Date | Description |
 |------|------|-------|
-| [PLD_20-08-25](PLD_20-08-25.md) | Mercredi 20/08/2025 | Les bases et propriétés du Flexbox en CSS, et les formulaires HTML et leur accessibilité |
+| [PLD](PLD_20-08-25.md) | Mercredi 20/08/2025 | Les bases et propriétés du Flexbox en CSS, et les formulaires HTML et leur accessibilité |
 
 ---
 
